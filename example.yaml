@@ -1,0 +1,15 @@
+    # Define a key-value pair
+    name: John Doe
+
+    # Define a nested key-value pair
+    address:
+      street: 123 Main Street
+      city: Anytown
+      state: Any State
+      postal_code: 12345
+
+    # Define a list of values
+    hobbies:
+      - hiking
+      - reading
+      - cooking
