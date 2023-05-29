@@ -12,3 +12,5 @@ yaml file to dictionnary
     .address.postal_code=12345
 
 # dowload it from release
+
+    wget raw.github.com.....TBD
